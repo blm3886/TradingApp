@@ -1,1 +1,1 @@
-# TradingApp
+# Trading App
